@@ -1,0 +1,20 @@
+- aws:
+  name: Amazon Web Services
+  short: AWS
+  image:
+  summary: |+
+
+  url:
+    en: https://aws.amazon.com/
+    ja: https://aws.amazon.com/jp/
+  company:
+    en:
+      name: Amazon Web Services, Inc.
+      url: https://aws.amazon.com/
+      address: 
+      established: March 2006
+    ja:
+      name: アマゾンウェブサービスジャパン株式会社
+      url: https://aws.amazon.com/jp/
+      address: 東京都品川区上大崎３丁目１－１ 目黒セントラルスクエア
+      established: 2009/8

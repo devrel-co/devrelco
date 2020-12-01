@@ -4,6 +4,7 @@ tags:
   - TAG 1
   - TAG 2
   - TAG 3
+image:
 summary: |+ # Summary of service (Markdown supported)
 url:
   en: https://www.example.com/
