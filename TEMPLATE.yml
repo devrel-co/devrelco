@@ -1,0 +1,41 @@
+service_name: SERVICE NAME
+category: CATEGORY ID # Select from category.yml
+tags:
+  - TAG 1
+  - TAG 2
+  - TAG 3
+summary: |+ # Summary of service (Markdown supported)
+url:
+  en: https://www.example.com/
+  ja: https://www.example.com/
+  cn: https://www.example.com/
+  kr: https://www.example.com/
+support_language:
+  - en
+  - ja
+  - cn
+  - kr
+support_region:
+  - en
+  - ja
+  - cn
+  - kr
+name_other_language:
+  - ja
+  - cn
+  - kr
+company: COMPANY ID # Select from company.yml
+price: |+ # URL or text (Markdown supported)
+free:
+  # Condition of fee free to use
+  # URL or text
+api_document_url:
+  en: https://www.example.com/
+  ja: https://www.example.com/
+  cn: https://www.example.com/
+  kr: https://www.example.com/
+status_url:
+  en: https://www.example.com/
+  ja: https://www.example.com/
+  cn: https://www.example.com/
+  kr: https://www.example.com/
