@@ -1,0 +1,26 @@
+service_name: cast.ai
+category: Server
+tags:
+  - Cloud
+  - k8s
+  - AWS
+  - GCP
+  - Azure
+image: https://cast.ai/wp-content/uploads/2020/10/cropped-cast-favicon-magenta-270x270.png
+summary: |+ # Summary of service (Markdown supported)
+  Start with one or multiple clouds and we will help you cost-optimize,
+  auto-scale, down-scale, secure, troubleshoot and get all the benefits
+  from multiple cloud providers in a single logical setup.
+url:
+  en: https://cast.ai/
+support_language:
+  - en
+support_region:
+name_other_language:
+company: castai # Select from company.yml
+price: https://cast.ai/pricing/
+free:
+  One project — unlimited scale. Under 20 vCPUs (In Early bird price)
+api_document_url:
+  en: https://docs.cast.ai/
+status_url:
