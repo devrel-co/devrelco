@@ -18,3 +18,14 @@
       url: https://aws.amazon.com/jp/
       address: 東京都品川区上大崎３丁目１－１ 目黒セントラルスクエア
       established: 2009/8
+  
+- castai:
+  name: CAST AI Group, Inc.
+  url:
+    en: https://cast.ai/
+  company:
+    en:
+      name: CAST AI Group, Inc.
+      address: North Miami Beach, Florida, United States
+      established: Oct 1, 2019
+
