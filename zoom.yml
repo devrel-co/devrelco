@@ -1,0 +1,23 @@
+service_name: Zoom Developer Platform
+category: Video Chat
+tags:
+  - Meeting
+  - Video
+image: https://zoom.us/docs/image/thumb.png
+summary: |+ # Summary of service (Markdown supported)
+  The Zoom Developer Platform is an open platform that allows third-party developers to build applications and integrations upon Zoom’s video-first unified communications platform.
+  Leverage APIs, Webhooks and SDKs to build custom applications and super-power your business with a powerful collaboration suite.
+url:
+  en: https://zoom.us/en/platform/isv.html
+  ja: https://zoom.us/docs/jp-jp/platform/isv.html
+support_language:
+support_region:
+name_other_language:
+company: zoom
+price: |+ # URL or text (Markdown supported)
+free:
+  # Condition of fee free to use
+  # URL or text
+api_document_url:
+  en: https://marketplace.zoom.us/docs/guides
+status_url:
