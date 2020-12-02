@@ -1,12 +1,12 @@
-service_name: SERVICE NAME
+service_name: Zoom Developer Platform
 category: Video Chat
 tags:
   - Meeting
   - Video
 image: https://zoom.us/docs/image/thumb.png
 summary: |+ # Summary of service (Markdown supported)
-  Zoom makes video and web conferencing frictionless.
-  Founded in 2011, Zoom is the leader in modern enterprise video communications, with a secure, easy platform for video and audio conferencing, messaging, and webinars across mobile, desktop, and room systems. Zoom Rooms is the original software-based conference room solution for conference, huddle, and training rooms, as well as executive offices and classrooms. Zoom helps businesses and organizations around the world bring their teams together to get more done. Zoom is a private company headquartered in San Jose, CA.
+  The Zoom Developer Platform is an open platform that allows third-party developers to build applications and integrations upon Zoom’s video-first unified communications platform.
+  Leverage APIs, Webhooks and SDKs to build custom applications and super-power your business with a powerful collaboration suite.
 url:
   en: https://zoom.us/en/platform/isv.html
   ja: https://zoom.us/docs/jp-jp/platform/isv.html
