@@ -1,0 +1,46 @@
+service_name: Google Cloud
+title: アクセスの透明性  |  Access Transparency - Cloud Provider Admin Logs
+category: Cloud
+tags:
+  - Cloud
+  - Admin
+  - Logs
+image: https://cloud.google.com/images/social-icon-google-cloud-1200-630.png
+summary: |+
+  Access Transparency surfaces near real-time logs of Google Cloud administrator accesses
+  to your systems and data.
+  アクセスの透明性とは、Google Cloud の管理者によるお客様のシステムとデータへのアクセスを、ほぼリアルタイムにログに記録して確認できるようにする機能です。
+url:
+  en: https://cloud.google.com/access-transparency?hl=en_US
+  ja: https://cloud.google.com/access-transparency?hl=ja_JP
+  cn: https://cloud.google.com/access-transparency?hl=zh_CN
+  kr: https://cloud.google.com/access-transparency?hl=ko_KR
+support_language:
+  - en
+  - ja
+  - cn
+  - kr
+support_region:
+  - en
+  - ja
+  - cn
+  - kr
+name_other_language: [fr, de, es]
+company: google
+price: |+
+  - https://cloud.google.com/access-transparency?hl=en#section-5
+  - https://cloud.google.com/access-transparency?hl=ja_JP#section-5
+  - https://cloud.google.com/access-transparency?hl=zh-cn#section-5
+  - https://cloud.google.com/access-transparency?hl=ko#section-5
+free: 
+  en: https://console.cloud.google.com/freetrial?hl=en&_ga=2.36702823.616073410.1607697730-1163463859.1595110656
+  ja: https://console.cloud.google.com/freetrial?hl=ja&_ga=2.36702823.616073410.1607697730-1163463859.1595110656
+  cn: https://console.cloud.google.com/freetrial?hl=zh-cn&_ga=2.36702823.616073410.1607697730-1163463859.1595110656
+  kr: https://console.cloud.google.com/freetrial?hl=ko&_ga=2.36702823.616073410.1607697730-1163463859.1595110656
+api_document_url:
+  en: https://cloud.google.com/logging/docs/audit/access-transparency-overview?hl=en_US
+  ja: https://cloud.google.com/logging/docs/audit/access-transparency-overview?hl=ja_JP
+  cn: https://cloud.google.com/logging/docs/audit/access-transparency-overview?hl=zh_CN
+  kr: https://cloud.google.com/logging/docs/audit/access-transparency-overview?hl=ko_KR
+status_url:
+  en: 'https://status.cloud.google.com/'
