@@ -1,0 +1,44 @@
+service_name: Google Cloud
+title: Cloud Run for Anthos  |  Google Cloud
+category: null
+tags:
+- Kubernetes
+- Serverless
+- Anthos
+image: https://cloud.google.com/images/social-icon-google-cloud-1200-630.png
+summary: '|+
+  Cloud Run for Anthos は Kubernetes の複雑なコンセプトを抽象化できるので、デベロッパーは Kubernetes とサーバーレスの両方のメリットを活用できます。'
+url:
+  en: https://cloud.google.com/anthos/run?hl=en
+  ja: https://cloud.google.com/anthos/run?hl=ja
+  cn: https://cloud.google.com/anthos/run?hl=zh-cn
+  kr: https://cloud.google.com/anthos/run?hl=ko
+support_language:
+  - en
+  - ja
+  - cn
+  - kr
+support_region:
+  - en
+  - ja
+  - cn
+  - kr
+name_other_language:
+  - fr
+  - de
+  - es
+company: google
+price: |+
+  Cloud Run for Anthos は現在、Anthos のサブスクリプションに含まれています。Anthos の料金については、セールスチームにお問い合わせください。
+free:
+  en: https://console.cloud.google.com/freetrial?hl=en&_ga=2.147285360.616073410.1607697730-1163463859.1595110656
+  ja: https://console.cloud.google.com/freetrial?hl=ja&_ga=2.147285360.616073410.1607697730-1163463859.1595110656
+  cn: https://console.cloud.google.com/freetrial?hl=zh-cn&_ga=2.147285360.616073410.1607697730-1163463859.1595110656
+  kr: https://console.cloud.google.com/freetrial?hl=ko&_ga=2.147285360.616073410.1607697730-1163463859.1595110656
+api_document_url:
+  ja: https://cloud.google.com/kuberun/docs/choosing-a-platform?hl=en
+  ja: https://cloud.google.com/kuberun/docs/choosing-a-platform?hl=ja
+  ja: https://cloud.google.com/kuberun/docs/choosing-a-platform?hl=zh-cn
+  ja: https://cloud.google.com/kuberun/docs/choosing-a-platform?hl=ko
+status_url:
+  en: https://status.cloud.google.com/
