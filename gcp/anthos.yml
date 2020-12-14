@@ -1,13 +1,14 @@
-service_name: Google Cloud
-title: Anthos アプリ モダナイゼーション プラットフォーム  |  Google Cloud
+service_name: Anthos
 category: Cloud
 tags:
-  - Cloud
+  - Modernize
   - Platform
   - Development
   - Anthos
 image: https://cloud.google.com/images/social-icon-google-cloud-1200-630.png
 summary: |+
+  Anthos アプリ モダナイゼーション プラットフォーム
+  既存のアプリケーションのモダナイゼーションと、クラウドネイティブなアプリケーションの構築により、アジリティと費用削減を促進。
   最新型のアプリケーション プラットフォーム Anthos を使用すると、ハイブリッド クラウド環境やマルチクラウド環境で一貫性のある開発と運用が可能になります。
 url:
   en: https://cloud.google.com/anthos?hl=en
