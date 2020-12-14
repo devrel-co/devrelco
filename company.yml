@@ -36,3 +36,65 @@
   company:
     en:
       name: Zoom
+
+- google:
+  name: Google, Inc.
+  short: Google
+  image:
+  summary: |+
+
+  url:
+    en: https://google.com/
+    ja: https://google.co.jp/
+  company:
+    en:
+      name: Group, Inc.
+      url: https://about.google/  
+      address: 
+      established: September 1998
+    ja:
+      name: グーグル合同会社 
+      address: 日本 東京都 港区
+      established: 2001年8月
+
+- ibm:
+  name: IBM, Inc.
+  short: IBM
+  image:
+  summary: |+
+
+  url:
+    en: https://www.ibm.com/
+    ja: https://www.ibm.com/jp-ja
+  company:
+    en:
+      name: International Business Machines Corporation 
+      url: https://www.ibm.com/
+      address: Armonk, New York, U.S.
+      established: June 16, 1911
+    ja:
+      name: 日本アイ・ビー・エム株式会社
+      url: https://www.ibm.com/jp-ja
+      address: 東京都中央区日本橋箱崎町19-21
+      established: 1937年6月17日
+
+- asure:
+  name: Microsoft Corporation
+  short: Microsoft
+  image: https://www.microsoft.com/ja-jp/
+  summary: |+
+
+  url:
+    en: http://www.microsoft.com/ 
+    ja: 
+  company:
+    en:
+      name: Microsoft Corporation
+      url: http://www.microsoft.com/ 
+      address: One Microsoft Way Redmond, WA 98052-7329 USA
+      established:  1975
+    ja:
+      name: 日本マイクロソフト株式会社
+      url: https://www.microsoft.com/ja-jp/
+      address: 108-0075 東京都港区港南 2-16-3 品川グランドセントラルタワー
+      established: 1986年2月

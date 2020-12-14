@@ -1,0 +1,46 @@
+service_name: Cross-Cloud API Management Platform
+category: Cloud
+tags:
+  - Apigee
+  - API
+  - Platform
+  - Management
+image: https://cloud.google.com/images/social-icon-google-cloud-1200-630.png
+summary: |+
+  クロスクラウド API管理プラットフォーム
+  Gartner はマジック クアドラントで、Google（Apigee）を 5年連続で、フル ライフサイクル API管理のリーダーとして認定しました。
+  Google Cloud に含まれる Apigee は、先進企業によるアプリケーション プログラミング インターフェース（API）の設計、セキュリティ保護、スケーリングを支援します。Apigee
+  Edgeの無料トライアルをぜひお試しください。
+url:
+  en: https://cloud.google.com/apigee?hl=en
+  ja: https://cloud.google.com/apigee?hl=ja
+  cn: https://cloud.google.com/apigee?hl=zh-cn
+  kr: https://cloud.google.com/apigee?hl=ko
+support_language:
+  - en
+  - ja
+  - cn
+  - kr
+support_region:
+  - en
+  - ja
+  - cn
+  - kr
+name_other_language:
+  - fr
+  - de
+  - es
+company: google
+price: |+
+  - https://cloud.google.com/apigee/pricing?hl=en
+  - https://cloud.google.com/apigee/pricing?hl=ja
+  - https://cloud.google.com/apigee/pricing?hl=zh-cn
+  - https://cloud.google.com/apigee/pricing?hl=ko
+free:
+api_document_url:
+  en: https://cloud.google.com/apigee/docs?hl=en
+  ja: https://cloud.google.com/apigee/docs?hl=ja
+  cn: https://cloud.google.com/apigee/docs?hl=zh-cn
+  kr: https://cloud.google.com/apigee/docs?hl=ko
+status_url:
+  en: https://status.cloud.google.com/

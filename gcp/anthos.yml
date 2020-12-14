@@ -1,0 +1,50 @@
+service_name: Anthos
+category: Cloud
+tags:
+  - Modernize
+  - Platform
+  - Development
+  - Anthos
+image: https://cloud.google.com/images/social-icon-google-cloud-1200-630.png
+summary: |+
+  Anthos アプリ モダナイゼーション プラットフォーム
+  既存のアプリケーションのモダナイゼーションと、クラウドネイティブなアプリケーションの構築により、アジリティと費用削減を促進。
+  最新型のアプリケーション プラットフォーム Anthos を使用すると、ハイブリッド クラウド環境やマルチクラウド環境で一貫性のある開発と運用が可能になります。
+url:
+  en: https://cloud.google.com/anthos?hl=en
+  ja: https://cloud.google.com/anthos?hl=ja
+  cn: https://cloud.google.com/anthos?hl=zh-cn
+  kr: https://cloud.google.com/anthos?hl=ko
+support_language:
+  - en
+  - ja
+  - cn
+  - kr
+support_region:
+  - en
+  - ja
+  - cn
+  - kr
+name_other_language:
+  - fr
+  - de
+  - es
+company: google
+price: |+
+  - https://cloud.google.com/anthos?hl=en#section-11
+  - https://cloud.google.com/anthos?hl=ja#section-11
+  - https://cloud.google.com/anthos?hl=zh-cn#section-11
+  - https://cloud.google.com/anthos?hl=ko#section-11
+free:
+  en: https://console.cloud.google.com/freetrial?hl=en&_ga=2.70279895.616073410.1607697730-1163463859.1595110656
+  ja: https://console.cloud.google.com/freetrial?hl=ja&_ga=2.70279895.616073410.1607697730-1163463859.1595110656
+  cn: https://console.cloud.google.com/freetrial?hl=zh-cn&_ga=2.70279895.616073410.1607697730-1163463859.1595110656
+  kr: https://console.cloud.google.com/freetrial?hl=ko&_ga=2.70279895.616073410.1607697730-1163463859.1595110656
+
+api_document_url:
+  en: https://cloud.google.com/anthos?hl=en#section-5
+  ja: https://cloud.google.com/anthos?hl=ja#section-5
+  cn: https://cloud.google.com/anthos?hl=zh-cn#section-5
+  kr: https://cloud.google.com/anthos?hl=ko#section-5
+status_url:
+  en: https://status.cloud.google.com/
